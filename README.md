@@ -1,7 +1,7 @@
 # Smart_Farming_Crop_Advisor
 
 ## *Introduction*
-This dataset is part of The [kaggle](https://eu.kaggle.com/) Data base, posted by a user called:chitrakumari25 about Production Optimizing Algorithym. The goal of this project is to apply  statistical skills and machine learning in a Agricultural environment helping farmers to make decisions about wich crops they have better conditions to work with following variables of climate and nutrient conditions.
+This dataset is part of The [kaggle](https://eu.kaggle.com/) Data base, posted by a user called:chitrakumari25 about Production Optimizing Algorithym. The goal of this project is to apply  statistical skills and machine learning in a Agricultural environment helping farmers to make decisions about which crops they have better conditions to work, following climate and nutrient variables.
 
 The aim of the project was divided into 3 sections:
 
