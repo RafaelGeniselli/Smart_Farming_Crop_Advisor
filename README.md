@@ -1,13 +1,13 @@
 # Smart_Farming_Crop_Advisor
 
 ## *Introduction*
-This dataset is part of The [kaggle](https://eu.kaggle.com/) Data base, posted by a user called:chitrakumari25 about Production Optimizing Algorithym. The goal of this project is to apply  statistical skills and machine learning in a Agricultural environment helping farmers to make decisions about which crops they have better conditions to work, following climate and nutrient variables.
+This dataset is part of [kaggle](https://eu.kaggle.com/) Database, posted by a user called:chitrakumari25 about Production Optimizing Algorithym. The goal of this project is to apply  statistical and machine learning algorythms in a Crops recommendation data, helping farmers to make decisions about which crops they have better conditions to grow, following climate and nutrient features.
 
 The aim of the project was divided into 3 sections:
 
 * *Checking Requirements of each crop* 
 * *Filtering and clustering conditions to find groups of crops*
-* *Build Model* Which grides us about the best productive crop as per the climatic and minerals condition, using machine learning to train our model
+* *Build Model* Which guides us about the best productive crop as per the climatic and minerals condition, using machine learning to train our model
 * 
 ## *File Description*
 * Notebook: 
